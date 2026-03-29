@@ -6,7 +6,19 @@
 ![Skills](screenshot2.png)
 ![Graph](screenshot3.png)
 
+---
+
+## 💡 Key Insight
+
+👉 SQL + BI + Python combination is more valuable than Python alone.
+
+---
+
+## 🧠 About
+
 A data-driven platform that analyzes real job postings to help users understand their position in the job market.
+
+---
 
 ## 🔥 Features
 
@@ -15,6 +27,8 @@ A data-driven platform that analyzes real job postings to help users understand 
 * 🎯 Personalized job matching
 * 🌍 Live job market integration
 * 📈 Market demand visualization
+
+---
 
 ## 🧠 Problem
 
@@ -25,24 +39,30 @@ Many candidates don’t know:
 
 This project solves that using real job data.
 
+---
+
 ## ⚙️ Tech Stack
 
 * Python (Pandas, Regex)
 * Streamlit
 * Plotly
-* REST API (Live Jobs)
+* REST API
+
+---
 
 ## 📊 Data
 
 * 1000+ job postings analyzed
 * Real salary dataset
 
+---
+
 ## 🚀 Run Locally
 
-```bash
 pip install -r requirements.txt
 streamlit run app.py
-```
+
+---
 
 ## 👩‍💻 Author
 
