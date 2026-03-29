@@ -1,5 +1,11 @@
 # 🚀 AI Job Market Intelligence
 
+## 📸 Demo
+
+![Dashboard](screenshot.png)
+![Skills](screenshot2.png)
+![Graph](screenshot3.png)
+
 A data-driven platform that analyzes real job postings to help users understand their position in the job market.
 
 ## 🔥 Features
